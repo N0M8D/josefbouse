@@ -1,0 +1,82 @@
+footer {
+    background-color: #08091d;
+}
+
+body {
+    background-color: #b8b8b8;
+    max-width: 100vw;
+}
+
+.main-raised {
+    background-color: #ebebeb;
+    margin: 10px 30px 0;
+    border-radius: 6px;
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
+    padding-bottom: 4rem;
+}
+
+.tab-profile-content>.active {
+    display: block;
+}
+
+a {
+    color: #212529;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6b0f0f;
+}
+
+.hlavniNadpis {
+    font-size: 75px;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.list-group-item.active {
+    background-color: #e1ede3;
+    border-color: #5a815f;
+}
+
+.list-group-item.active p {
+    color: #141414!important;
+}
+
+.list-group-item.active h5 {
+    color: #141414!important;
+}
+
+.list-group-item.active small {
+    color: #555555!important;
+}
+
+.popisek {
+    font-size: 12px;
+    color: #8d8d8d;
+}
+
+.img-thumbnail {
+    width: 250px;
+    height: 265px;
+    float: left;
+    margin: 10px;
+}
+
+.img-thumbnail img {
+    width: 240px;
+    height: 240px;
+}
+
+.copyright {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    width: 25rem;
+    height: 100%;
+    max-width: 100%;
+}
